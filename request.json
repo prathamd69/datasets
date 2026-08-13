@@ -138,5 +138,25 @@
     "updated_by": 1,
     "updated_time": "2025-04-08 07:43:41",
     "visibility": false
+  },
+  {
+    "added_by": 1,
+    "added_time": "2025-05-27 12:09:01",
+    "c_category": "loanschemes",
+    "c_id": 90,
+    "c_sub_category": "bom",
+    "caption": "Loan Scheme",
+    "content": "https://iiitn.ac.in/media/4ccca88bfce84e68b41857a20af962c5.pdf",
+    "date": "2000-12-31",
+    "expiry_date": "Sat, 11 Nov 1111 00:00:00 GMT",
+    "location": "Online",
+    "media_doc_id": null,
+    "media_img_id": "https://iiitn.ac.in/media/2bd3982c01004cbb8d0b54e5e7b52266.png",
+    "media_vid_id": null,
+    "preference": 0,
+    "title": "Bank of Maharashtra",
+    "updated_by": 1,
+    "updated_time": "2025-05-27 12:09:01",
+    "visibility": true
   }
 ]
